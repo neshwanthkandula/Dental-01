@@ -1,0 +1,9 @@
+#clone the repo in terminal
+git clone <Repo__URL>
+
+#RUN 
+npm install
+
+
+#RUN IN DEV
+npm run dev
